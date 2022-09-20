@@ -8,7 +8,7 @@ import { FiShoppingBag } from 'react-icons/fi'
 function Navbar() {
     const class_Link = ""
     return (
-        <header className="w-screen bg-white h-20 drop-shadow-xl grid place-items-center " >
+        <header className="w-screen overflow-x-hidden bg-white h-20 drop-shadow-xl grid place-items-center " >
             <div className="w-11/12 flex items-center" >
 
                 <h1 className="text-2xl font-bold" >Navbar</h1>
